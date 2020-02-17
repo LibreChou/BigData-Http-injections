@@ -6,15 +6,15 @@ workspace:
   - spark with MLib -
 
 trianing:
-  pre-processing:
-    - featture engineering - yuval
-    - building vactorizers - Ricky
+  - pre-processing:
+    -- featture engineering - yuval
+    -- building vactorizers - Ricky
   
-  models:
-      - logistic regression
-      - decision tree (random forest?)
-      - svm
-      - naive bayes
+  - models:
+      -- logistic regression
+      -- decision tree (random forest?)
+      -- svm
+      -- naive bayes
       
 refrences:
     - Machine Learning with Spark Streaming
