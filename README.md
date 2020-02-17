@@ -1,16 +1,16 @@
 # Big Data Project
 TODO:
-## workspace:
+workspace:
   kafka - V
   spark streaming -
-  spark with MLib
+  spark with MLib -
 
-## trianing:
-  ### pre-processing:
+trianing:
+  pre-processing:
     featture engineering - yuval
     building vactorizers - Ricky
   
-  ### models:
+  models:
       logistic regression
       decision tree (random forest?)
       svm
@@ -18,6 +18,6 @@ TODO:
 
     
     
-## refrences:
-    ### Machine Learning with Spark Streaming
+refrences:
+    Machine Learning with Spark Streaming
     https://blog.clairvoyantsoft.com/machine-learning-with-spark-streaming-281b2d1e4fd5
