@@ -7,8 +7,8 @@ workspace:
 
 trianing:
   - pre-processing:
-    featture engineering - yuval
-    building vactorizers - Ricky
+    - featture engineering - yuval
+    - building vactorizers - Ricky
   
   - models:
       - logistic regression
