@@ -7,8 +7,8 @@ workspace:
 
 trianing:
   - pre-processing:
-    -- featture engineering - yuval
-    -- building vactorizers - Ricky
+    featture engineering - yuval
+    building vactorizers - Ricky
   
   - models:
       logistic regression
@@ -17,5 +17,5 @@ trianing:
       naive bayes
       
 refrences:
-    - Machine Learning with Spark Streaming
+    Machine Learning with Spark Streaming
     https://blog.clairvoyantsoft.com/machine-learning-with-spark-streaming-281b2d1e4fd5
