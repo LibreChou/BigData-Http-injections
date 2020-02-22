@@ -17,5 +17,4 @@ trianing:
       - naive bayes
       
 refrences:
-    Machine Learning with Spark Streaming
-    https://blog.clairvoyantsoft.com/machine-learning-with-spark-streaming-281b2d1e4fd5
+    - Machine Learning with Spark Streaming - https://blog.clairvoyantsoft.com/machine-learning-with-spark-streaming-281b2d1e4fd5
