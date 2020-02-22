@@ -11,10 +11,10 @@ trianing:
     building vactorizers - Ricky
   
   - models:
-      logistic regression
-      decision tree (random forest?)
-      svm
-      naive bayes
+      - logistic regression
+      - decision tree (random forest?)
+      - svm
+      - naive bayes
       
 refrences:
     Machine Learning with Spark Streaming
