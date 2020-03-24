@@ -3,18 +3,17 @@ TODO:
 workspace:
   - kafka - V
   - spark streaming -
-  - spark with MLib -
+  - spark with MLib V
 
 trianing:
   - pre-processing:
-    - featture engineering-yuval
-    - building vactorizers-Ricky
+    - building vactorizers- V
   
   - models:
-      - logistic regression
-      - decision tree (random forest?)
-      - svm
-      - naive bayes
+      - logistic regression V
+      - random forest V
+      - svm V
+      - naive bayes V
       
 refrences:
     - Machine Learning with Spark Streaming - https://blog.clairvoyantsoft.com/machine-learning-with-spark-streaming-281b2d1e4fd5
