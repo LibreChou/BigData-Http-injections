@@ -12,7 +12,9 @@ TODO:
   - kafka & spark streaming -
      
 ![alt text](https://github.com/RickyDa/BigData-Http-injections/blob/master/assets/spark%20ml.png)
-      
+
+# Overview of the project and the tools we used
+![alt text](https://github.com/RickyDa/BigData-Http-injections/blob/master/assets/overview.jpg)
 refrences:
   - https://blog.clairvoyantsoft.com/machine-learning-with-spark-streaming-281b2d1e4fd5
   - https://spark.apache.org/docs/1.2.2/ml-guide.html
