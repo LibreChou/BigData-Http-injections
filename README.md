@@ -3,10 +3,10 @@
 Example of binary classification using pyspark Mllib.
 
 Models - 
-      - Logistic Reression 
-      - Random forest
-      - Support Vector Machine 
-      - Naive Bayes 
+ - Logistic Reression 
+ - Random forest
+ - Support Vector Machine 
+ - Naive Bayes 
 
 TODO:
   - kafka & spark streaming -
