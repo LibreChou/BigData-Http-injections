@@ -1,6 +1,6 @@
 # Big Data Project
 
-Example of binary classification using pyspark Mllib.
+Example of Binary classification of web application injection attacks, using pyspark Mllib. 
 
 Models - 
  - Logistic Reression 
