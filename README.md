@@ -17,3 +17,4 @@ refrences:
   - https://blog.clairvoyantsoft.com/machine-learning-with-spark-streaming-281b2d1e4fd5
   - https://spark.apache.org/docs/1.2.2/ml-guide.html
   - https://mapr.com/blog/streaming-machine-learning-pipeline-for-sentiment-analysis-using-apache-apis-kafka-spark-and-drill-part-1/
+  - https://www.analyticsvidhya.com/blog/2019/12/streaming-data-pyspark-machine-learning-model/
