@@ -1,20 +1,16 @@
 # Big Data Project
-TODO:
-workspace:
-  - kafka - V
-  - spark streaming -
-  - spark with MLib V
 
-trianing:
-  - pre-processing:
-    - building vactorizers- V
-  
-  - models:
-      - logistic regression V
-      - random forest V
-      - svm V
-      - naive bayes V
-      
+Example of binary classification using pyspark Mllib.
+
+Models - 
+      - Logistic Reression 
+      - Random forest
+      - Support Vector Machine 
+      - Naive Bayes 
+
+TODO:
+  - kafka & spark streaming -
+     
 ![alt text](https://github.com/RickyDa/BigData-Http-injections/blob/master/assets/spark%20ml.png)
       
 refrences:
