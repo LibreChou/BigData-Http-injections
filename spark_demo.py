@@ -1,5 +1,5 @@
-# import findspark
-# findspark.init('/usr/local/spark/spark-2.4.0-bin-hadoop2.7/')
+import findspark
+findspark.init('/usr/local/spark/spark-2.4.0-bin-hadoop2.7/')
 import pyspark
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
