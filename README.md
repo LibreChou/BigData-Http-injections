@@ -8,8 +8,6 @@ Models -
  - Support Vector Machine 
  - Naive Bayes 
 
-TODO:
-  - kafka & spark streaming -
      
 ![alt text](https://github.com/RickyDa/BigData-Http-injections/blob/master/assets/spark%20ml.png)
 
