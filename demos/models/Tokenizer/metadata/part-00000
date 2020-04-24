@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1587385404931,"sparkVersion":"2.4.5","uid":"Tokenizer_ba1b613d9ae7","paramMap":{"inputCol":"ngrams","outputCol":"tokens"},"defaultParamMap":{"outputCol":"Tokenizer_ba1b613d9ae7__output"}}
